@@ -4,14 +4,6 @@ A beginner-friendly relational database project for managing a book library. Thi
 
 ---
 
-##  Technologies Used
-
-- **Database**: SQL (PostgreSQL/MySQL-compatible)
-- **Tools**: SQL editor (DBeaver, pgAdmin, MySQL Workbench)
-- **Formats**: `.sql` scripts, `.xlsx` planning sheets
-
----
-
 ##  Features
 
 - Defines tables for books, authors, publishers, members, and loans
@@ -33,20 +25,15 @@ A beginner-friendly relational database project for managing a book library. Thi
 
 ##  Educational Use
 
-This project is perfect for:
+This project was for:
 - Practicing relational database design
 - Understanding normalization and entity relationships
 - Learning SQL queries with real-world structure
 
 ---
 
-##  Tips
 
-- Follow along with `Lib_Proj_Step1-4_V3.xlsx` to see the design evolution.
-- Use `DB_Diagram.PNG` to visualize table relationships at a glance.
-- Adapt table structures to practice JOINs, aggregation, or subqueries.
 
----
 
 
 
